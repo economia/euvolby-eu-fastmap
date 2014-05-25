@@ -19,6 +19,7 @@ colors =
     "S&D"        : \#F10000
     "GUE/NGL"    : \#990000
     "EPP"        : \#87CEFA
+    "Others"     : \#777
 
 classNames =
     "ALDE"       : \alde
@@ -44,18 +45,23 @@ map.addLayer L.tileLayer do
 
 style = (feature) ->
     vysledek = vysledky_assoc[feature.properties.nuts]
-    return if not vysledek
-    {groups} = vysledek
-    [winningPartyVotes, winningParty] = groups.reduce do
-        (prev, [name, seats, percentage]:curr, index) ->
-            if prev.0 < seats then [seats, name] else prev
-        [0, null]
-
-    color = \#174F82
-    opacity = 0.5
     weight = 0.5
-    fillOpacity = 1
-    fillColor = colors[winningParty]
+    if vysledek
+        {groups} = vysledek
+        [winningPartyVotes, winningParty] = groups.reduce do
+            (prev, [name, seats, percentage]:curr, index) ->
+                if prev.0 < seats then [seats, name] else prev
+            [0, null]
+
+        color = \#174F82
+        opacity = 0.5
+        fillOpacity = 1
+        fillColor = colors[winningParty]
+    else
+        color = \#fff
+        opacity = 0.5
+        fillOpacity = 0.2
+        fillColor = \#fff
     {color, fillColor, opacity, fillOpacity, weight}
 
 poslanciString = (count) ->
@@ -69,8 +75,11 @@ onEachFeature = (feature, layer) ->
 
 displayDetails = ({nuts, label}) ->
     vysledek = vysledky_assoc[nuts]
-    return if not vysledek
     countryName.innerHTML = label
+    partyContainer.innerHTML = ""
+    if not vysledek
+        poslanciContainer.innerHTML = "Dosud nejsou k dispozici výsledky"
+        return
     {groups, parties} = vysledek
     poslanciContainer.innerHTML = ""
     for group in groups
@@ -80,7 +89,7 @@ displayDetails = ({nuts, label}) ->
                 ..style.backgroundColor = colors[group.0]
                 ..setAttribute \title "#{group.0}: #{poslanciString group.1}"
             poslanciContainer.appendChild ele
-    partyContainer.innerHTML = ""
+    console.log groups
     for [party, seats, percent] in parties
         element = qe \li
             ..innerHTML = "<b>#party:</b> #{poslanciString seats}, #{Math.round percent * 100}&nbsp;%"
@@ -108,14 +117,15 @@ partyContainer = qe \ul
 legend = qe \div
     ..setAttribute \class "legend winners"
     ..innerHTML = '
-    <span title="sociální demokraté, ČSSD" style="background-color: #F10000;">SD</span>
     <span title="lidové strany, KDU-ČSL" style="background-color: #87CEFA;">EPP</span>
-    <span title="liberálové, Svobodní" style="background-color: #40E0D0;">EAF</span>
-    <span title="zelení" style="background-color: 009900;">G</span>
+    <span title="sociální demokraté, ČSSD" style="background-color: #F10000;">SD</span>
     <span title="liberální demokraté, ANO 2011" style="background-color: #FFD700;">ALDE</span>
-    <span title="mimo frakci" style="background-color: #999999;">NI</span>
+    <span title="zelení" style="background-color: #009900;">G</span>
+    <span title="konzervativci, ODS" style="background-color: #0054A5;">ECR</span>
     <span title="komunisté, KSČM" style="background-color: #990000;">GUE</span>
-    <span title="konzervativci, ODS" style="background-color: #0054A5;">ECR</span>'
+    <span title="liberálové, Svobodní" style="background-color: #40E0D0;">EAF</span>
+    <span title="mimo frakci" style="background-color: #999999;">NI</span>
+    '
 ig.containers.base.appendChild legend
 infobox.appendChild partyContainer
 
