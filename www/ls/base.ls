@@ -1,5 +1,11 @@
+qe = -> document~createElement ...
+qs = -> document~querySelector ...
+qsa = -> document~querySelectorAll ...
+
 topo = ig.data.topojson
 {vysledky} = ig.data
+mapContainer = qe \div
+ig.containers.base.appendChild mapContainer
 vysledky_assoc = {}
 for vysledek in vysledky
     vysledky_assoc[vysledek.code] = vysledek
@@ -13,15 +19,26 @@ colors =
     "S&D"        : \#F10000
     "GUE/NGL"    : \#990000
     "EPP"        : \#87CEFA
+
+classNames =
+    "ALDE"       : \alde
+    "ECR"        : \ecr
+    "EFD"        : \efd
+    "GREENS/EFA" : \greens
+    "NA"         : \na
+    "S&D"        : \sd
+    "GUE/NGL"    : \gue
+    "EPP"        : \epp
+
 map = L.map do
-    *   ig.containers.base
+    *   mapContainer
     *   minZoom: 3,
         maxZoom: 7,
         zoom: 4,
         center: [51.5, 9]
 map.addLayer L.tileLayer do
     *   "http://staticmaps.ihned.cz/tiles-world-osm//{z}/{x}/{y}.png"
-    *   attribution: 'mapová data &copy; přispěvatelé OpenStreetMap'
+    *   attribution: 'mapová data &copy; přispěvatelé <a href="http://www.openstreetmap.org" target="_blank">OpenStreetMap</a>, volební výsledky <a href="http://www.results-elections2014.eu/" target="_blank">Europarlament</a>'
         opacity: 0.4
 
 
@@ -34,24 +51,73 @@ style = (feature) ->
             if prev.0 < seats then [seats, name] else prev
         [0, null]
 
-    color = colors[winningParty]
-    opacity = 1
-    weight = 1
-    fillOpacity = 0.7
-    {color, opacity, fillOpacity, weight}
+    color = \#174F82
+    opacity = 0.5
+    weight = 0.5
+    fillOpacity = 1
+    fillColor = colors[winningParty]
+    {color, fillColor, opacity, fillOpacity, weight}
 
-# onEachFeature = (feature, layer) ->
-#     {useky_cena_zadavaci, useky_skutecna_cena, useky_eu_percent, useky_cerpano} = feature.properties
-#     useky_cerpano ?= 0
-#     useky_eu_percent ?= 0
-#     useky_skutecna_cena ?= 0
-#     listItems = []
-#     listItems.push "<li>Zadávací cena: #{ig.utils.formatPrice useky_cena_zadavaci} Kč</li>"
-#     listItems.push "<li>Konečná cena: #{ig.utils.formatPrice useky_skutecna_cena} Kč</li>" if useky_skutecna_cena
-#     listItems.push "<li>Z evropských fondů: #{ig.utils.formatPrice useky_cerpano} Kč (#{useky_eu_percent}%)</li>"
-#     layer.bindPopup "<h2>#{feature.properties.usek} #{feature.properties.useky_nazev}</h2>
-#     <ul>#{listItems.join ''}</ul>
-#     "
+poslanciString = (count) ->
+    word =
+        | count == 1 => "poslanec"
+        | 0 < count < 5 => "poslanci"
+        | otherwise     => "poslanců"
+    "#count #word"
+onEachFeature = (feature, layer) ->
+    layer.on \click -> displayDetails feature.properties
 
-silnice = L.geoJson features, {style}
+displayDetails = ({nuts, label}) ->
+    vysledek = vysledky_assoc[nuts]
+    return if not vysledek
+    countryName.innerHTML = label
+    {groups, parties} = vysledek
+    poslanciContainer.innerHTML = ""
+    for group in groups
+        for [0 til group.1]
+            ele = qe \span
+                ..setAttribute \class "poslanec #{classNames[group.0]}"
+                ..style.backgroundColor = colors[group.0]
+                ..setAttribute \title "#{group.0}: #{poslanciString group.1}"
+            poslanciContainer.appendChild ele
+    partyContainer.innerHTML = ""
+    for [party, seats, percent] in parties
+        element = qe \li
+            ..innerHTML = "<b>#party:</b> #{poslanciString seats}, #{Math.round percent * 100}&nbsp;%"
+        partyContainer.appendChild element
+
+infobox = qe \div
+    ..setAttribute \class \infobox
+
+ig.containers.base.appendChild infobox
+
+countryName = qe \div
+    ..setAttribute \class \countryName
+    ..innerHTML = "Předběžné výsledky voleb do EP 2014"
+
+infobox.appendChild countryName
+
+poslanciContainer = qe \div
+    ..setAttribute \class \poslanciContainer
+    ..innerHTML = "Po kliknutí na zemi v mapě se zde zobrazí její detailní volební výsledky"
+infobox.appendChild poslanciContainer
+
+
+partyContainer = qe \ul
+    ..setAttribute \class \partyContainer
+legend = qe \div
+    ..setAttribute \class "legend winners"
+    ..innerHTML = '
+    <span title="sociální demokraté, ČSSD" style="background-color: #F10000;">SD</span>
+    <span title="lidové strany, KDU-ČSL" style="background-color: #87CEFA;">EPP</span>
+    <span title="liberálové, Svobodní" style="background-color: #40E0D0;">EAF</span>
+    <span title="zelení" style="background-color: 009900;">G</span>
+    <span title="liberální demokraté, ANO 2011" style="background-color: #FFD700;">ALDE</span>
+    <span title="mimo frakci" style="background-color: #999999;">NI</span>
+    <span title="komunisté, KSČM" style="background-color: #990000;">GUE</span>
+    <span title="konzervativci, ODS" style="background-color: #0054A5;">ECR</span>'
+ig.containers.base.appendChild legend
+infobox.appendChild partyContainer
+
+L.geoJson features, {style, onEachFeature}
     ..addTo map
