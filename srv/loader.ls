@@ -2,7 +2,7 @@ require! {
     fs
     xml2js
 }
-download = no
+download = yes
 (err, data) <~ fs.readFile "#__dirname/../data/parties.xml"
 (err, parties) <~ xml2js.parseString data
 parties_assoc = {}

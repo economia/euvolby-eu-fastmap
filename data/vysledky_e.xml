@@ -8,28 +8,28 @@
                 <updateday>26</updateday>
                 <updatemonth>5</updatemonth>
                 <updateyear>2014</updateyear>
-                <updatehour>11:01</updatehour>
+                <updatehour>15:50</updatehour>
             </update>
             <results>
                 <resultbygroup>
                     <groupname>EPP</groupname>
-                    <seats>214</seats>
-                    <percent>28.50</percent>
+                    <seats>213</seats>
+                    <percent>28.36</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>S&amp;D</groupname>
-                    <seats>189</seats>
-                    <percent>25.17</percent>
+                    <seats>190</seats>
+                    <percent>25.30</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
-                    <seats>66</seats>
-                    <percent>8.79</percent>
+                    <seats>64</seats>
+                    <percent>8.52</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GREENS/EFA</groupname>
-                    <seats>52</seats>
-                    <percent>6.92</percent>
+                    <seats>53</seats>
+                    <percent>7.06</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ECR</groupname>
@@ -53,8 +53,8 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>Others</groupname>
-                    <seats>63</seats>
-                    <percent>8.39</percent>
+                    <seats>64</seats>
+                    <percent>8.52</percent>
                 </resultbygroup>
             </results>
         </europeanresults>
@@ -4682,52 +4682,52 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>16:59</updatehour>
                 </update>
                 <resultbyparty>
                     <partyname>ER</partyname>
                     <seats>2</seats>
-                    <percent>18.00</percent>
+                    <percent>24.30</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>KE</partyname>
                     <seats>1</seats>
-                    <percent>17.00</percent>
-                </resultbyparty>
-                <resultbyparty>
-                    <partyname>SDE</partyname>
-                    <seats>1</seats>
-                    <percent>16.00</percent>
+                    <percent>22.40</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>IRL</partyname>
                     <seats>1</seats>
-                    <percent>14.50</percent>
+                    <percent>13.90</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>SDE</partyname>
+                    <seats>1</seats>
+                    <percent>13.60</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>I. Tarand (Ind.)</partyname>
                     <seats>1</seats>
-                    <percent>11.00</percent>
+                    <percent>13.20</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>EKRE</partyname>
                     <seats>0</seats>
-                    <percent>2.00</percent>
+                    <percent>4.00</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>EIP</partyname>
                     <seats>0</seats>
-                    <percent>1.00</percent>
+                    <percent>1.30</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>EER</partyname>
                     <seats>0</seats>
-                    <percent>0.50</percent>
+                    <percent>0.30</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>20.00</percent>
+                    <percent>7.00</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -4742,7 +4742,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>16:59</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
@@ -4792,7 +4792,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>16:59</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
@@ -4816,21 +4816,21 @@
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>SDE</partyname>
-                        <seats>1</seats>
-                    </resultbyparty>
-                    <resultbygroups>
-                        <groupname>S&amp;D</groupname>
-                        <seats>1</seats>
-                    </resultbygroups>
-                </resultbypartygroup>
-                <resultbypartygroup>
-                    <resultbyparty>
                         <partyname>IRL</partyname>
                         <seats>1</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>EPP</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>SDE</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
                         <seats>1</seats>
                     </resultbygroups>
                 </resultbypartygroup>
