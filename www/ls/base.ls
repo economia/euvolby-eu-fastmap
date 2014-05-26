@@ -84,10 +84,14 @@ displayDetails = ({nuts, label}) ->
     poslanciContainer.innerHTML = ""
     for group in groups
         for [0 til group.1]
+            name = group.0
+            name = 'Nově zvolení / nezařazení' if name == 'Others'
+            name = 'Nezařazení' if name == 'NA'
+
             ele = qe \span
                 ..setAttribute \class "poslanec #{classNames[group.0]}"
                 ..style.backgroundColor = colors[group.0]
-                ..setAttribute \title "#{group.0}: #{poslanciString group.1}"
+                ..setAttribute \title "#{name}: #{poslanciString group.1}"
             poslanciContainer.appendChild ele
     console.log groups
     for [party, seats, percent] in parties
