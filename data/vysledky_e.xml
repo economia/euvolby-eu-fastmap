@@ -8,53 +8,53 @@
                 <updateday>26</updateday>
                 <updatemonth>5</updatemonth>
                 <updateyear>2014</updateyear>
-                <updatehour>01:29</updatehour>
+                <updatehour>11:01</updatehour>
             </update>
             <results>
                 <resultbygroup>
                     <groupname>EPP</groupname>
-                    <seats>212</seats>
-                    <percent>28.23</percent>
+                    <seats>214</seats>
+                    <percent>28.50</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>S&amp;D</groupname>
-                    <seats>186</seats>
-                    <percent>24.77</percent>
+                    <seats>189</seats>
+                    <percent>25.17</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
-                    <seats>70</seats>
-                    <percent>9.32</percent>
+                    <seats>66</seats>
+                    <percent>8.79</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GREENS/EFA</groupname>
-                    <seats>55</seats>
-                    <percent>7.32</percent>
+                    <seats>52</seats>
+                    <percent>6.92</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ECR</groupname>
-                    <seats>44</seats>
-                    <percent>5.86</percent>
+                    <seats>46</seats>
+                    <percent>6.13</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GUE/NGL</groupname>
-                    <seats>43</seats>
-                    <percent>5.73</percent>
+                    <seats>42</seats>
+                    <percent>5.59</percent>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>NA</groupname>
+                    <seats>41</seats>
+                    <percent>5.46</percent>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>EFD</groupname>
                     <seats>38</seats>
                     <percent>5.06</percent>
                 </resultbygroup>
                 <resultbygroup>
-                    <groupname>EFD</groupname>
-                    <seats>36</seats>
-                    <percent>4.79</percent>
-                </resultbygroup>
-                <resultbygroup>
                     <groupname>Others</groupname>
-                    <seats>67</seats>
-                    <percent>8.92</percent>
+                    <seats>63</seats>
+                    <percent>8.39</percent>
                 </resultbygroup>
             </results>
         </europeanresults>
@@ -1462,6 +1462,211 @@
         </country>
         <country>
             <countrycode>PL</countrycode>
+            <countryparty>
+                <titleid>label.countryparty</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbyparty>
+                    <partyname>PiS</partyname>
+                    <seats>19</seats>
+                    <percent>32.33</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PO</partyname>
+                    <seats>19</seats>
+                    <percent>31.34</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>SLD</partyname>
+                    <seats>5</seats>
+                    <percent>9.54</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PSL</partyname>
+                    <seats>4</seats>
+                    <percent>7.21</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>KNP</partyname>
+                    <seats>4</seats>
+                    <percent>7.06</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>SP</partyname>
+                    <seats>0</seats>
+                    <percent>4.04</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>Europa Plus TR</partyname>
+                    <seats>0</seats>
+                    <percent>3.44</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PRJG</partyname>
+                    <seats>0</seats>
+                    <percent>3.08</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>RN</partyname>
+                    <seats>0</seats>
+                    <percent>1.40</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Others]</partyname>
+                    <seats>0</seats>
+                    <percent>0.56</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Total]</partyname>
+                    <seats>51</seats>
+                    <percent>100</percent>
+                </resultbyparty>
+            </countryparty>
+            <countrygroup>
+                <titleid>label.countrygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbygroup>
+                    <groupname>EPP</groupname>
+                    <seats>23</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>S&amp;D</groupname>
+                    <seats>5</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ALDE</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GREENS/EFA</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ECR</groupname>
+                    <seats>19</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GUE/NGL</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>EFD</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>NA</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>Others</groupname>
+                    <seats>4</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>TOTAL</groupname>
+                    <seats>51</seats>
+                </resultbygroup>
+            </countrygroup>
+            <countrypartygroup>
+                <titleid>label.countrypartygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PiS</partyname>
+                        <seats>19</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>ECR</groupname>
+                        <seats>19</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PO</partyname>
+                        <seats>19</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>19</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>SLD</partyname>
+                        <seats>5</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
+                        <seats>5</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PSL</partyname>
+                        <seats>4</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>4</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>KNP</partyname>
+                        <seats>4</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>Others</groupname>
+                        <seats>4</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>SP</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>Europa Plus TR</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PRJG</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>RN</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>[Others]</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+            </countrypartygroup>
             <countryrate>
                 <titleid>label.countryrate</titleid>
                 <update>
@@ -1888,52 +2093,52 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbyparty>
                     <partyname>D66</partyname>
                     <seats>4</seats>
-                    <percent>15.10</percent>
+                    <percent>15.51</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>CDA</partyname>
                     <seats>4</seats>
-                    <percent>14.80</percent>
+                    <percent>15.12</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>PVV</partyname>
-                    <seats>3</seats>
-                    <percent>12.90</percent>
+                    <seats>4</seats>
+                    <percent>13.35</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>VVD</partyname>
                     <seats>3</seats>
-                    <percent>12.40</percent>
-                </resultbyparty>
-                <resultbyparty>
-                    <partyname>PvdA</partyname>
-                    <seats>3</seats>
-                    <percent>10.30</percent>
+                    <percent>12.03</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>SP</partyname>
                     <seats>3</seats>
-                    <percent>9.90</percent>
+                    <percent>9.65</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PvdA</partyname>
+                    <seats>2</seats>
+                    <percent>9.41</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Coalition CU - SGP</partyname>
                     <seats>2</seats>
-                    <percent>8.00</percent>
+                    <percent>7.60</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>GroenLinks</partyname>
                     <seats>2</seats>
-                    <percent>7.50</percent>
+                    <percent>6.99</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>PvdD</partyname>
                     <seats>1</seats>
-                    <percent>4.20</percent>
+                    <percent>4.22</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>50Plus</partyname>
@@ -1943,7 +2148,7 @@
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>1.20</percent>
+                    <percent>2.42</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -1958,7 +2163,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
@@ -1966,7 +2171,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>S&amp;D</groupname>
-                    <seats>3</seats>
+                    <seats>2</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
@@ -1990,7 +2195,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>NA</groupname>
-                    <seats>3</seats>
+                    <seats>4</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>Others</groupname>
@@ -2008,7 +2213,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
@@ -2033,11 +2238,11 @@
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>PVV</partyname>
-                        <seats>3</seats>
+                        <seats>4</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>NA</groupname>
-                        <seats>3</seats>
+                        <seats>4</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -2052,22 +2257,22 @@
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>PvdA</partyname>
-                        <seats>3</seats>
-                    </resultbyparty>
-                    <resultbygroups>
-                        <groupname>S&amp;D</groupname>
-                        <seats>3</seats>
-                    </resultbygroups>
-                </resultbypartygroup>
-                <resultbypartygroup>
-                    <resultbyparty>
                         <partyname>SP</partyname>
                         <seats>3</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>GUE/NGL</groupname>
                         <seats>3</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PvdA</partyname>
+                        <seats>2</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
+                        <seats>2</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -2655,57 +2860,57 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
-                <resultbyparty>
-                    <partyname>LSDP</partyname>
-                    <seats>3</seats>
-                    <percent>23.00</percent>
-                </resultbyparty>
-                <resultbyparty>
-                    <partyname>DP</partyname>
-                    <seats>2</seats>
-                    <percent>17.00</percent>
-                </resultbyparty>
                 <resultbyparty>
                     <partyname>TS-LKD</partyname>
                     <seats>2</seats>
-                    <percent>13.50</percent>
+                    <percent>17.39</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>LSDP</partyname>
+                    <seats>2</seats>
+                    <percent>17.27</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>LRLS</partyname>
+                    <seats>2</seats>
+                    <percent>16.52</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>TT</partyname>
                     <seats>2</seats>
-                    <percent>11.00</percent>
+                    <percent>14.27</percent>
                 </resultbyparty>
                 <resultbyparty>
-                    <partyname>LiCS -TAIP</partyname>
+                    <partyname>DP</partyname>
                     <seats>1</seats>
-                    <percent>8.50</percent>
+                    <percent>12.83</percent>
                 </resultbyparty>
                 <resultbyparty>
-                    <partyname>LRLS</partyname>
+                    <partyname>LLRA (AWPL)</partyname>
                     <seats>1</seats>
-                    <percent>7.50</percent>
+                    <percent>8.06</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>LVZS</partyname>
-                    <seats>0</seats>
-                    <percent>4.00</percent>
+                    <seats>1</seats>
+                    <percent>6.62</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>LZP</partyname>
                     <seats>0</seats>
-                    <percent>3.50</percent>
+                    <percent>3.55</percent>
                 </resultbyparty>
                 <resultbyparty>
-                    <partyname>LLRA (AWPL)</partyname>
+                    <partyname>LiCS -TAIP</partyname>
                     <seats>0</seats>
-                    <percent>2.00</percent>
+                    <percent>1.49</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>10.00</percent>
+                    <percent>2.00</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -2720,7 +2925,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
@@ -2728,7 +2933,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>S&amp;D</groupname>
-                    <seats>3</seats>
+                    <seats>2</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
@@ -2740,7 +2945,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ECR</groupname>
-                    <seats>0</seats>
+                    <seats>1</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GUE/NGL</groupname>
@@ -2770,28 +2975,8 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
-                <resultbypartygroup>
-                    <resultbyparty>
-                        <partyname>LSDP</partyname>
-                        <seats>3</seats>
-                    </resultbyparty>
-                    <resultbygroups>
-                        <groupname>S&amp;D</groupname>
-                        <seats>3</seats>
-                    </resultbygroups>
-                </resultbypartygroup>
-                <resultbypartygroup>
-                    <resultbyparty>
-                        <partyname>DP</partyname>
-                        <seats>2</seats>
-                    </resultbyparty>
-                    <resultbygroups>
-                        <groupname>ALDE</groupname>
-                        <seats>2</seats>
-                    </resultbygroups>
-                </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>TS-LKD</partyname>
@@ -2799,6 +2984,26 @@
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>EPP</groupname>
+                        <seats>2</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>LSDP</partyname>
+                        <seats>2</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
+                        <seats>2</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>LRLS</partyname>
+                        <seats>2</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>ALDE</groupname>
                         <seats>2</seats>
                     </resultbygroups>
                 </resultbypartygroup>
@@ -2814,17 +3019,7 @@
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>LiCS -TAIP</partyname>
-                        <seats>1</seats>
-                    </resultbyparty>
-                    <resultbygroups>
-                        <groupname>Others</groupname>
-                        <seats>1</seats>
-                    </resultbygroups>
-                </resultbypartygroup>
-                <resultbypartygroup>
-                    <resultbyparty>
-                        <partyname>LRLS</partyname>
+                        <partyname>DP</partyname>
                         <seats>1</seats>
                     </resultbyparty>
                     <resultbygroups>
@@ -2834,9 +3029,23 @@
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>LVZS</partyname>
-                        <seats>0</seats>
+                        <partyname>LLRA (AWPL)</partyname>
+                        <seats>1</seats>
                     </resultbyparty>
+                    <resultbygroups>
+                        <groupname>ECR</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>LVZS</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>Others</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
@@ -2846,7 +3055,7 @@
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>LLRA (AWPL)</partyname>
+                        <partyname>LiCS -TAIP</partyname>
                         <seats>0</seats>
                     </resultbyparty>
                 </resultbypartygroup>
@@ -3290,52 +3499,52 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbyparty>
                     <partyname>PD</partyname>
-                    <seats>27</seats>
-                    <percent>34.50</percent>
+                    <seats>31</seats>
+                    <percent>40.86</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>M5S</partyname>
-                    <seats>20</seats>
-                    <percent>25.50</percent>
+                    <seats>17</seats>
+                    <percent>21.13</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>FI</partyname>
                     <seats>13</seats>
-                    <percent>17.00</percent>
+                    <percent>16.77</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>LN</partyname>
                     <seats>5</seats>
-                    <percent>6.00</percent>
+                    <percent>6.19</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Coal. (NCD+UDC+PPI)</partyname>
-                    <seats>4</seats>
-                    <percent>4.50</percent>
+                    <seats>3</seats>
+                    <percent>4.37</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>L’Altra Europa – Con Tsipras</partyname>
                     <seats>3</seats>
-                    <percent>4.50</percent>
+                    <percent>4.03</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>FDI-AN</partyname>
                     <seats>0</seats>
-                    <percent>3.50</percent>
-                </resultbyparty>
-                <resultbyparty>
-                    <partyname>IdV</partyname>
-                    <seats>0</seats>
-                    <percent>1.00</percent>
+                    <percent>3.65</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Coal. Scelta Europea</partyname>
                     <seats>0</seats>
-                    <percent>1.00</percent>
+                    <percent>0.71</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>IdV</partyname>
+                    <seats>0</seats>
+                    <percent>0.65</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>SVP</partyname>
@@ -3345,7 +3554,7 @@
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>2.00</percent>
+                    <percent>1.14</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -3360,15 +3569,15 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
-                    <seats>18</seats>
+                    <seats>17</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>S&amp;D</groupname>
-                    <seats>27</seats>
+                    <seats>31</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
@@ -3396,7 +3605,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>Others</groupname>
-                    <seats>23</seats>
+                    <seats>20</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>TOTAL</groupname>
@@ -3410,26 +3619,26 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>PD</partyname>
-                        <seats>27</seats>
+                        <seats>31</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>S&amp;D</groupname>
-                        <seats>27</seats>
+                        <seats>31</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>M5S</partyname>
-                        <seats>20</seats>
+                        <seats>17</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>Others</groupname>
-                        <seats>20</seats>
+                        <seats>17</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -3455,11 +3664,11 @@
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>Coal. (NCD+UDC+PPI)</partyname>
-                        <seats>4</seats>
+                        <seats>3</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>EPP</groupname>
-                        <seats>4</seats>
+                        <seats>3</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -3480,13 +3689,13 @@
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>IdV</partyname>
+                        <partyname>Coal. Scelta Europea</partyname>
                         <seats>0</seats>
                     </resultbyparty>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>Coal. Scelta Europea</partyname>
+                        <partyname>IdV</partyname>
                         <seats>0</seats>
                     </resultbyparty>
                 </resultbypartygroup>
@@ -3528,47 +3737,47 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:48</updatehour>
                 </update>
                 <resultbyparty>
                     <partyname>FN</partyname>
-                    <seats>22</seats>
-                    <percent>25.40</percent>
+                    <seats>24</seats>
+                    <percent>24.95</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>UMP</partyname>
-                    <seats>18</seats>
-                    <percent>21.00</percent>
+                    <seats>20</seats>
+                    <percent>20.79</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>PS - PRG</partyname>
-                    <seats>12</seats>
-                    <percent>14.50</percent>
+                    <seats>13</seats>
+                    <percent>13.98</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Alternative (UDI+MoDem)</partyname>
-                    <seats>8</seats>
-                    <percent>10.30</percent>
+                    <seats>7</seats>
+                    <percent>9.90</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Europe écologie</partyname>
-                    <seats>8</seats>
-                    <percent>9.40</percent>
+                    <seats>6</seats>
+                    <percent>8.91</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>FG (PCF+PG+Ens.+et al.)</partyname>
-                    <seats>5</seats>
-                    <percent>6.50</percent>
+                    <seats>3</seats>
+                    <percent>6.34</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>DLR</partyname>
                     <seats>0</seats>
-                    <percent>3.70</percent>
+                    <percent>3.82</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Nouvelle Donne</partyname>
                     <seats>0</seats>
-                    <percent>3.00</percent>
+                    <percent>2.90</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>LO</partyname>
@@ -3593,7 +3802,7 @@
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>4.90</percent>
+                    <percent>7.11</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -3608,23 +3817,23 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:48</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
-                    <seats>18</seats>
+                    <seats>20</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>S&amp;D</groupname>
-                    <seats>12</seats>
+                    <seats>13</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
-                    <seats>8</seats>
+                    <seats>7</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GREENS/EFA</groupname>
-                    <seats>8</seats>
+                    <seats>6</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ECR</groupname>
@@ -3632,7 +3841,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GUE/NGL</groupname>
-                    <seats>5</seats>
+                    <seats>4</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>EFD</groupname>
@@ -3640,11 +3849,11 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>NA</groupname>
-                    <seats>22</seats>
+                    <seats>24</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>Others</groupname>
-                    <seats>1</seats>
+                    <seats>0</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>TOTAL</groupname>
@@ -3658,66 +3867,66 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:48</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>FN</partyname>
-                        <seats>22</seats>
+                        <seats>24</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>NA</groupname>
-                        <seats>22</seats>
+                        <seats>24</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>UMP</partyname>
-                        <seats>18</seats>
+                        <seats>20</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>EPP</groupname>
-                        <seats>18</seats>
+                        <seats>20</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>PS - PRG</partyname>
-                        <seats>12</seats>
+                        <seats>13</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>S&amp;D</groupname>
-                        <seats>12</seats>
+                        <seats>13</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>Alternative (UDI+MoDem)</partyname>
-                        <seats>8</seats>
+                        <seats>7</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>ALDE</groupname>
-                        <seats>8</seats>
+                        <seats>7</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>Europe écologie</partyname>
-                        <seats>8</seats>
+                        <seats>6</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>GREENS/EFA</groupname>
-                        <seats>8</seats>
+                        <seats>6</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>FG (PCF+PG+Ens.+et al.)</partyname>
-                        <seats>5</seats>
+                        <seats>3</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>GUE/NGL</groupname>
-                        <seats>5</seats>
+                        <seats>3</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -3750,7 +3959,7 @@
                         <seats>1</seats>
                     </resultbyparty>
                     <resultbygroups>
-                        <groupname>Others</groupname>
+                        <groupname>GUE/NGL</groupname>
                         <seats>1</seats>
                     </resultbygroups>
                 </resultbypartygroup>
@@ -3788,17 +3997,17 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbyparty>
                     <partyname>PP</partyname>
                     <seats>16</seats>
-                    <percent>26.03</percent>
+                    <percent>26.06</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>PSOE/PSC</partyname>
                     <seats>14</seats>
-                    <percent>23.04</percent>
+                    <percent>23.00</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>IP (IU+ICV+Anova+et al.)</partyname>
@@ -3808,22 +4017,22 @@
                 <resultbyparty>
                     <partyname>Podemos</partyname>
                     <seats>5</seats>
-                    <percent>7.93</percent>
+                    <percent>7.97</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>UPyD</partyname>
                     <seats>4</seats>
-                    <percent>6.46</percent>
+                    <percent>6.50</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>CEU (CDC+UDC+EAJ-PNV+ CCA-PNC+ CxG)</partyname>
                     <seats>3</seats>
-                    <percent>5.45</percent>
+                    <percent>5.44</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>EPDD (ERC+NECat+Ind.+et al.)</partyname>
                     <seats>2</seats>
-                    <percent>4.08</percent>
+                    <percent>4.02</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>C'S</partyname>
@@ -3833,22 +4042,22 @@
                 <resultbyparty>
                     <partyname>LPD (BNG+EH Bildu)</partyname>
                     <seats>1</seats>
-                    <percent>2.10</percent>
+                    <percent>2.07</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Primavera Europea</partyname>
                     <seats>1</seats>
-                    <percent>1.90</percent>
+                    <percent>1.91</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>VOX</partyname>
                     <seats>0</seats>
-                    <percent>1.55</percent>
+                    <percent>1.56</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>8.31</percent>
+                    <percent>8.32</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -3863,7 +4072,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
@@ -3913,7 +4122,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>09:49</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
@@ -4057,62 +4266,62 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:28</updatehour>
                 </update>
                 <resultbyparty>
-                    <partyname>ΣΥ.ΡΙ.ΖΑ./SY.RΙ.ΖΑ.</partyname>
+                    <partyname>ΣΥ.ΡΙ.ΖΑ.</partyname>
                     <seats>7</seats>
-                    <percent>26.51</percent>
+                    <percent>26.55</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Ν.Δ/N.D.</partyname>
                     <seats>6</seats>
-                    <percent>23.13</percent>
+                    <percent>22.76</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>X.A.</partyname>
                     <seats>2</seats>
-                    <percent>9.34</percent>
+                    <percent>9.39</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Ελιά ΔΠ / ELIA DA</partyname>
                     <seats>2</seats>
-                    <percent>8.07</percent>
+                    <percent>8.03</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>To Potami</partyname>
                     <seats>2</seats>
-                    <percent>6.60</percent>
+                    <percent>6.61</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>KKE</partyname>
                     <seats>1</seats>
-                    <percent>6.03</percent>
+                    <percent>6.07</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>ΑΝ.ΕΛ/ANEL</partyname>
                     <seats>1</seats>
-                    <percent>3.43</percent>
+                    <percent>3.44</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>ΛΑ.Ο.Σ/LA.O.S.</partyname>
                     <seats>0</seats>
-                    <percent>2.73</percent>
+                    <percent>2.70</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>ΔΗΜ.ΑΡ/DI.M.AR</partyname>
                     <seats>0</seats>
-                    <percent>1.23</percent>
+                    <percent>1.21</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>Ο.Π./O.P.</partyname>
                     <seats>0</seats>
-                    <percent>0.89</percent>
+                    <percent>0.90</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>12.04</percent>
+                    <percent>12.34</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -4127,7 +4336,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:28</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
@@ -4177,11 +4386,11 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:28</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
-                        <partyname>ΣΥ.ΡΙ.ΖΑ./SY.RΙ.ΖΑ.</partyname>
+                        <partyname>ΣΥ.ΡΙ.ΖΑ.</partyname>
                         <seats>7</seats>
                     </resultbyparty>
                     <resultbygroups>
@@ -4295,7 +4504,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:55</updatehour>
                 </update>
                 <resultbyparty>
                     <partyname>Ind.</partyname>
@@ -4345,7 +4554,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:55</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
@@ -4357,7 +4566,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
-                    <seats>3</seats>
+                    <seats>2</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GREENS/EFA</groupname>
@@ -4381,7 +4590,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>Others</groupname>
-                    <seats>0</seats>
+                    <seats>1</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>TOTAL</groupname>
@@ -4395,7 +4604,7 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>10:55</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
@@ -4403,7 +4612,7 @@
                         <seats>1</seats>
                     </resultbyparty>
                     <resultbygroups>
-                        <groupname>ALDE</groupname>
+                        <groupname>Others</groupname>
                         <seats>1</seats>
                     </resultbygroups>
                 </resultbypartygroup>
@@ -4689,32 +4898,32 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>11:28</updatehour>
                 </update>
                 <resultbyparty>
                     <partyname>CDU / CSU</partyname>
-                    <seats>36</seats>
-                    <percent>36.30</percent>
+                    <seats>34</seats>
+                    <percent>35.30</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>SPD</partyname>
                     <seats>27</seats>
-                    <percent>27.40</percent>
+                    <percent>27.30</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>GRÜNE</partyname>
-                    <seats>10</seats>
-                    <percent>10.50</percent>
+                    <seats>11</seats>
+                    <percent>10.70</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>DIE LINKE</partyname>
+                    <seats>7</seats>
+                    <percent>7.40</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>AfD</partyname>
                     <seats>7</seats>
                     <percent>7.00</percent>
-                </resultbyparty>
-                <resultbyparty>
-                    <partyname>DIE LINKE</partyname>
-                    <seats>6</seats>
-                    <percent>6.50</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>FDP</partyname>
@@ -4723,8 +4932,8 @@
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>FREIE WÄHLER</partyname>
-                    <seats>2</seats>
-                    <percent>1.60</percent>
+                    <seats>1</seats>
+                    <percent>1.50</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>PIRATEN</partyname>
@@ -4749,7 +4958,12 @@
                 <resultbyparty>
                     <partyname>ÖDP</partyname>
                     <seats>1</seats>
-                    <percent>0.70</percent>
+                    <percent>0.60</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>Die Partei</partyname>
+                    <seats>1</seats>
+                    <percent>0.60</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>REP</partyname>
@@ -4764,7 +4978,7 @@
                 <resultbyparty>
                     <partyname>[Others]</partyname>
                     <seats>0</seats>
-                    <percent>1.70</percent>
+                    <percent>1.30</percent>
                 </resultbyparty>
                 <resultbyparty>
                     <partyname>[Total]</partyname>
@@ -4779,11 +4993,11 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>11:28</updatehour>
                 </update>
                 <resultbygroup>
                     <groupname>EPP</groupname>
-                    <seats>36</seats>
+                    <seats>34</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>S&amp;D</groupname>
@@ -4791,11 +5005,11 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ALDE</groupname>
-                    <seats>5</seats>
+                    <seats>4</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GREENS/EFA</groupname>
-                    <seats>11</seats>
+                    <seats>12</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>ECR</groupname>
@@ -4803,7 +5017,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>GUE/NGL</groupname>
-                    <seats>6</seats>
+                    <seats>7</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>EFD</groupname>
@@ -4815,7 +5029,7 @@
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>Others</groupname>
-                    <seats>11</seats>
+                    <seats>12</seats>
                 </resultbygroup>
                 <resultbygroup>
                     <groupname>TOTAL</groupname>
@@ -4829,16 +5043,16 @@
                     <updateday>26</updateday>
                     <updatemonth>5</updatemonth>
                     <updateyear>2014</updateyear>
-                    <updatehour>01:29</updatehour>
+                    <updatehour>11:28</updatehour>
                 </update>
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>CDU / CSU</partyname>
-                        <seats>36</seats>
+                        <seats>34</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>EPP</groupname>
-                        <seats>36</seats>
+                        <seats>34</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -4854,11 +5068,21 @@
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>GRÜNE</partyname>
-                        <seats>10</seats>
+                        <seats>11</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>GREENS/EFA</groupname>
-                        <seats>10</seats>
+                        <seats>11</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>DIE LINKE</partyname>
+                        <seats>7</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>GUE/NGL</groupname>
+                        <seats>7</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -4869,16 +5093,6 @@
                     <resultbygroups>
                         <groupname>Others</groupname>
                         <seats>7</seats>
-                    </resultbygroups>
-                </resultbypartygroup>
-                <resultbypartygroup>
-                    <resultbyparty>
-                        <partyname>DIE LINKE</partyname>
-                        <seats>6</seats>
-                    </resultbyparty>
-                    <resultbygroups>
-                        <groupname>GUE/NGL</groupname>
-                        <seats>6</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -4894,11 +5108,11 @@
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>FREIE WÄHLER</partyname>
-                        <seats>2</seats>
+                        <seats>1</seats>
                     </resultbyparty>
                     <resultbygroups>
                         <groupname>ALDE</groupname>
-                        <seats>2</seats>
+                        <seats>1</seats>
                     </resultbygroups>
                 </resultbypartygroup>
                 <resultbypartygroup>
@@ -4944,6 +5158,16 @@
                 <resultbypartygroup>
                     <resultbyparty>
                         <partyname>ÖDP</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>Others</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>Die Partei</partyname>
                         <seats>1</seats>
                     </resultbyparty>
                     <resultbygroups>
@@ -5668,6 +5892,378 @@
         </country>
         <country>
             <countrycode>BE</countrycode>
+            <countryparty>
+                <titleid>label.countryparty</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbyparty>
+                    <partyname>N-VA</partyname>
+                    <seats>4</seats>
+                    <percent>16.45</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>Open VLD</partyname>
+                    <seats>3</seats>
+                    <percent>12.43</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>CD&amp;V</partyname>
+                    <seats>2</seats>
+                    <percent>12.28</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PS</partyname>
+                    <seats>3</seats>
+                    <percent>11.06</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>MR</partyname>
+                    <seats>3</seats>
+                    <percent>10.39</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>SP.A</partyname>
+                    <seats>1</seats>
+                    <percent>8.06</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>GROEN</partyname>
+                    <seats>1</seats>
+                    <percent>6.44</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>ECOLO</partyname>
+                    <seats>1</seats>
+                    <percent>4.46</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>cdH</partyname>
+                    <seats>1</seats>
+                    <percent>4.38</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>Vlaams Belang</partyname>
+                    <seats>1</seats>
+                    <percent>4.16</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PP</partyname>
+                    <seats>0</seats>
+                    <percent>2.31</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PTB-GO!</partyname>
+                    <seats>0</seats>
+                    <percent>2.02</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PVDA+</partyname>
+                    <seats>0</seats>
+                    <percent>1.47</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>FDF</partyname>
+                    <seats>0</seats>
+                    <percent>1.27</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>La droite</partyname>
+                    <seats>0</seats>
+                    <percent>0.61</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>CSP</partyname>
+                    <seats>1</seats>
+                    <percent>0.22</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PFF</partyname>
+                    <seats>0</seats>
+                    <percent>0.09</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>ProDG</partyname>
+                    <seats>0</seats>
+                    <percent>0.09</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>SP</partyname>
+                    <seats>0</seats>
+                    <percent>0.07</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>FN</partyname>
+                    <seats>0</seats>
+                    <percent>0.00</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Others] W.</partyname>
+                    <seats>0</seats>
+                    <percent>1.57</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Others] G.</partyname>
+                    <seats>0</seats>
+                    <percent>0.17</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Others] F.</partyname>
+                    <seats>0</seats>
+                    <percent>0.00</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Total]</partyname>
+                    <seats>21</seats>
+                    <percent>100</percent>
+                </resultbyparty>
+            </countryparty>
+            <countrygroup>
+                <titleid>label.countrygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbygroup>
+                    <groupname>EPP</groupname>
+                    <seats>4</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>S&amp;D</groupname>
+                    <seats>4</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ALDE</groupname>
+                    <seats>6</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GREENS/EFA</groupname>
+                    <seats>6</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ECR</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GUE/NGL</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>EFD</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>NA</groupname>
+                    <seats>1</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>Others</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>TOTAL</groupname>
+                    <seats>21</seats>
+                </resultbygroup>
+            </countrygroup>
+            <countrypartygroup>
+                <titleid>label.countrypartygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>N-VA</partyname>
+                        <seats>4</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>GREENS/EFA</groupname>
+                        <seats>4</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>Open VLD</partyname>
+                        <seats>3</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>ALDE</groupname>
+                        <seats>3</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>CD&amp;V</partyname>
+                        <seats>2</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>2</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PS</partyname>
+                        <seats>3</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
+                        <seats>3</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>MR</partyname>
+                        <seats>3</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>ALDE</groupname>
+                        <seats>3</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>SP.A</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>GROEN</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>GREENS/EFA</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>ECOLO</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>GREENS/EFA</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>cdH</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>Vlaams Belang</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>NA</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PP</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PTB-GO!</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PVDA+</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>FDF</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>La droite</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>CSP</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PFF</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>ProDG</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>SP</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>FN</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>[Others] W.</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>[Others] G.</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>[Others] F.</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+            </countrypartygroup>
             <countryrate>
                 <titleid>label.countryrate</titleid>
                 <update>
@@ -5682,12 +6278,534 @@
         </country>
         <country>
             <countrycode>WBE</countrycode>
+            <countryparty>
+                <titleid>label.countryparty</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbyparty>
+                    <partyname>PS</partyname>
+                    <seats>3</seats>
+                    <percent>29.06</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>MR</partyname>
+                    <seats>3</seats>
+                    <percent>27.29</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>ECOLO</partyname>
+                    <seats>1</seats>
+                    <percent>11.71</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>cdH</partyname>
+                    <seats>1</seats>
+                    <percent>11.51</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PP</partyname>
+                    <seats>0</seats>
+                    <percent>6.06</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PTB-GO!</partyname>
+                    <seats>0</seats>
+                    <percent>5.30</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>FDF</partyname>
+                    <seats>0</seats>
+                    <percent>3.34</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>La droite</partyname>
+                    <seats>0</seats>
+                    <percent>1.61</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>FN</partyname>
+                    <seats>0</seats>
+                    <percent>0.00</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Others] W.</partyname>
+                    <seats>0</seats>
+                    <percent>4.12</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Total]</partyname>
+                    <seats>8</seats>
+                    <percent>100</percent>
+                </resultbyparty>
+            </countryparty>
+            <countrygroup>
+                <titleid>label.countrygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbygroup>
+                    <groupname>EPP</groupname>
+                    <seats>1</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>S&amp;D</groupname>
+                    <seats>3</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ALDE</groupname>
+                    <seats>3</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GREENS/EFA</groupname>
+                    <seats>1</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ECR</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GUE/NGL</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>EFD</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>NA</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>Others</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>TOTAL</groupname>
+                    <seats>8</seats>
+                </resultbygroup>
+            </countrygroup>
+            <countrypartygroup>
+                <titleid>label.countrypartygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PS</partyname>
+                        <seats>3</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
+                        <seats>3</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>MR</partyname>
+                        <seats>3</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>ALDE</groupname>
+                        <seats>3</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>ECOLO</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>GREENS/EFA</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>cdH</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PP</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PTB-GO!</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>FDF</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>La droite</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>FN</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>[Others] W.</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+            </countrypartygroup>
         </country>
         <country>
             <countrycode>GBE</countrycode>
+            <countryparty>
+                <titleid>label.countryparty</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbyparty>
+                    <partyname>CSP</partyname>
+                    <seats>1</seats>
+                    <percent>34.54</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>ProDG</partyname>
+                    <seats>0</seats>
+                    <percent>14.38</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PFF</partyname>
+                    <seats>0</seats>
+                    <percent>13.88</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>SP</partyname>
+                    <seats>0</seats>
+                    <percent>10.59</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Others] G.</partyname>
+                    <seats>0</seats>
+                    <percent>26.61</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Total]</partyname>
+                    <seats>1</seats>
+                    <percent>100</percent>
+                </resultbyparty>
+            </countryparty>
+            <countrygroup>
+                <titleid>label.countrygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbygroup>
+                    <groupname>EPP</groupname>
+                    <seats>1</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>S&amp;D</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ALDE</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GREENS/EFA</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ECR</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GUE/NGL</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>EFD</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>NA</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>Others</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>TOTAL</groupname>
+                    <seats>1</seats>
+                </resultbygroup>
+            </countrygroup>
+            <countrypartygroup>
+                <titleid>label.countrypartygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>CSP</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>ProDG</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PFF</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>SP</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>[Others] G.</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+            </countrypartygroup>
         </country>
         <country>
             <countrycode>FBE</countrycode>
+            <countryparty>
+                <titleid>label.countryparty</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbyparty>
+                    <partyname>N-VA</partyname>
+                    <seats>4</seats>
+                    <percent>26.83</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>Open VLD</partyname>
+                    <seats>3</seats>
+                    <percent>20.27</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>CD&amp;V</partyname>
+                    <seats>2</seats>
+                    <percent>20.06</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>SP.A</partyname>
+                    <seats>1</seats>
+                    <percent>13.15</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>GROEN</partyname>
+                    <seats>1</seats>
+                    <percent>10.51</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>Vlaams Belang</partyname>
+                    <seats>1</seats>
+                    <percent>6.78</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>PVDA+</partyname>
+                    <seats>0</seats>
+                    <percent>2.40</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Others] F.</partyname>
+                    <seats>0</seats>
+                    <percent>0.00</percent>
+                </resultbyparty>
+                <resultbyparty>
+                    <partyname>[Total]</partyname>
+                    <seats>12</seats>
+                    <percent>100</percent>
+                </resultbyparty>
+            </countryparty>
+            <countrygroup>
+                <titleid>label.countrygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbygroup>
+                    <groupname>EPP</groupname>
+                    <seats>2</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>S&amp;D</groupname>
+                    <seats>1</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ALDE</groupname>
+                    <seats>3</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GREENS/EFA</groupname>
+                    <seats>5</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>ECR</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>GUE/NGL</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>EFD</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>NA</groupname>
+                    <seats>1</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>Others</groupname>
+                    <seats>0</seats>
+                </resultbygroup>
+                <resultbygroup>
+                    <groupname>TOTAL</groupname>
+                    <seats>12</seats>
+                </resultbygroup>
+            </countrygroup>
+            <countrypartygroup>
+                <titleid>label.countrypartygroup</titleid>
+                <update>
+                    <labelid>label.estimation</labelid>
+                    <updateday>26</updateday>
+                    <updatemonth>5</updatemonth>
+                    <updateyear>2014</updateyear>
+                    <updatehour>09:49</updatehour>
+                </update>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>N-VA</partyname>
+                        <seats>4</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>GREENS/EFA</groupname>
+                        <seats>4</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>Open VLD</partyname>
+                        <seats>3</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>ALDE</groupname>
+                        <seats>3</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>CD&amp;V</partyname>
+                        <seats>2</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>EPP</groupname>
+                        <seats>2</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>SP.A</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>S&amp;D</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>GROEN</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>GREENS/EFA</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>Vlaams Belang</partyname>
+                        <seats>1</seats>
+                    </resultbyparty>
+                    <resultbygroups>
+                        <groupname>NA</groupname>
+                        <seats>1</seats>
+                    </resultbygroups>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>PVDA+</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+                <resultbypartygroup>
+                    <resultbyparty>
+                        <partyname>[Others] F.</partyname>
+                        <seats>0</seats>
+                    </resultbyparty>
+                </resultbypartygroup>
+            </countrypartygroup>
         </country>
     </countryresults>
 </root>
