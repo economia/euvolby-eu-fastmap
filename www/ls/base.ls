@@ -94,9 +94,21 @@ displayDetails = ({nuts, label}) ->
                 ..setAttribute \title "#{name}: #{poslanciString group.1}"
             poslanciContainer.appendChild ele
     console.log groups
-    for [party, seats, percent] in parties
+    for [party, seats, percent, fullname, groups] in parties
+        party = "Ostatní" if party == "[Others]"
+        if groups
+            for group, index in groups
+                groups[index] = 'Nově zvolení / nezařazení' if group == 'Others'
+                groups[index] = 'Nezařazení' if group == 'NA'
+        groupsHuman =
+            | groups => groups.join ", "
+            | otherwise => ""
+        if groupsHuman then groupsHuman = ", #groupsHuman"
         element = qe \li
-            ..innerHTML = "<b>#party:</b> #{poslanciString seats}, #{Math.round percent * 100}&nbsp;%"
+            ..innerHTML = "<span class='firstline'>
+                <b>#party:</b> #{poslanciString seats}, #{Math.round percent * 100}&nbsp;%
+                </span>
+                <span class='fullname'>#{fullname}#{groupsHuman}</span>"
         partyContainer.appendChild element
 
 infobox = qe \div

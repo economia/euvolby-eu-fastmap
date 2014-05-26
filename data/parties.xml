@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.results-elections2014.eu/xml/xsd/parties.xsd">
+    <country code="HR">
+        <key name="HDZ+HSP AS" value="Hrvatska demokratska zajednica (EPP) + Hrvatska stranka prava dr. Ante Starčević (ECR) + Blok umirovljenici zajedno (OTHERS)+ Hrvatska seljačka stranka (OTHERS) + Zagorska demokratska stranka (OTHERS) + Hrvatska demokršćanska stranka (OTHERS)"/>
+        <key name="SDP+HNS+HSU+SDSS+IDS" value="Socijaldemokratska partija Hrvatske (S&amp;D) + Hrvatska narodna stranka (ALDE) + Hrvatska stranka umirovljenika + Samostalna demokratska srpska stranka + Istarski demokratski sabor (ALDE)"/>
+        <key name="NF+HSLS+PGS+LzR" value="Nacionalni forum (OTHERS) + Hrvatska socijalno liberalna stranka (ALDE) + Primorsko goranski savez (OTHERS) + Charter for Rijeka (OTHERS) + Nova stranka (OTHERS)"/>
+        <key name="HDSSB+HRAST+HSP+et al." value="Hrvatska Zora Stranka Naroda + Hrvatski demokratski savez Slavonije i Baranje + Akcija Za Bolju Hrvatsku + Autohtona - Hrvatska Seljacka Stranka + Hrvatski rast + Hrvatska stranka prava + Obiteljska Stranka + Zavjet Za Hrvatsku) (OTHERS)"/>
+        <key name="HL-SR" value="Hrvatski Laburisti - Stranka Rada"/>
+        <key name="ORaH" value="Održivi razvoj Hrvatske"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="UK">
+        <key name="SF" value="Sinn Féin"/>
+        <key name="DUP" value="Democratic Unionist Party"/>
+        <key name="UUP" value="Ulster Unionist Party \ Conservative &amp; Ulster Unionist Alliance"/>
+        <key name="SDLP" value="Social Democratic &amp; Labour Party"/>
+        <key name="[Others] NI" value="[Other parties Northern Ireland]"/>
+        <key name="Cons." value="Conservative Party"/>
+        <key name="Lab." value="Labour Party"/>
+        <key name="UKIP" value="United Kingdom Independence Party"/>
+        <key name="BNP" value="The British National Party"/>
+        <key name="SNP" value="Scottish National Party"/>
+        <key name="PL-PW" value="Plaid Cymru - Party of Wales"/>
+        <key name="LDP" value="Liberal Democrats Party"/>
+        <key name="GP" value="Green Party"/>
+        <key name="[Others] GB" value="[Other parties Great Britain]"/>
+    </country>
+    <country code="NI">
+        <key name="SF" value="Sinn Féin"/>
+        <key name="DUP" value="Democratic Unionist Party"/>
+        <key name="UUP" value="Ulster Unionist Party \ Conservative &amp; Ulster Unionist Alliance"/>
+        <key name="SDLP" value="Social Democratic &amp; Labour Party"/>
+        <key name="[Others] NI" value="[Other parties Northern Ireland]"/>
+    </country>
+    <country code="GB">
+        <key name="Cons." value="Conservative Party"/>
+        <key name="Lab." value="Labour Party"/>
+        <key name="UKIP" value="United Kingdom Independence Party"/>
+        <key name="BNP" value="The British National Party"/>
+        <key name="SNP" value="Scottish National Party"/>
+        <key name="PL-PW" value="Plaid Cymru - Party of Wales"/>
+        <key name="LDP" value="Liberal Democrats Party"/>
+        <key name="GP" value="Green Party"/>
+        <key name="[Others] GB" value="[Other parties Great Britain]"/>
+    </country>
+    <country code="SE">
+        <key name="V" value="Vänsterpartiet"/>
+        <key name="S" value="Socialdemokraterna"/>
+        <key name="C" value="Centerpartiet"/>
+        <key name="FP" value="Folkpartiet liberalerna"/>
+        <key name="M" value="Moderata Samlingspartiet"/>
+        <key name="KD" value="Kristdemokraterna"/>
+        <key name="MP" value="Miljöpartiet de gröna"/>
+        <key name="SD" value="Sverigedemokraterna"/>
+        <key name="FI" value="Feministiskt initiativ"/>
+        <key name="PP" value="Piratpartiet"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="FI">
+        <key name="KESK" value="Suomen Keskusta"/>
+        <key name="KOK" value="Kansallinen Kokoomus"/>
+        <key name="SDP" value="Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti"/>
+        <key name="VAS" value="Vasemmistoliitto"/>
+        <key name="VIHR" value="Vihreä liitto"/>
+        <key name="SFP (RKP)" value="Svenska folkpartiet (Ruotsalainen kansanpuolue)"/>
+        <key name="PS" value="Perussuomalaiset"/>
+        <key name="KD" value="Suomen Kristillisdemokraatit"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="SK">
+        <key name="KDH" value="Kresťanskodemokratické hnutie"/>
+        <key name="SDKÚ - DS" value="Slovenská demokratická a kresťanská únia - Demokratická strana"/>
+        <key name="SaS" value="Sloboda a Solidarita"/>
+        <key name="SNS" value="Slovenská národná strana"/>
+        <key name="SMER - SD" value="SMER - Sociálna demokracia"/>
+        <key name="SMK - MPK" value="Strana mad'arskej komunity - Magyar Közösség Pártja"/>
+        <key name="OL'aNO" value="Obyčajní Ľudia a nezávislé osobnosti"/>
+        <key name="NOVA" value="Nová väčšina - Dohoda"/>
+        <key name="MOST-HID" value="Most-Híd"/>
+        <key name="ĽSNS" value="Ľudová strana Naše Slovensko"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="SI">
+        <key name="SDS" value="Slovenska demokratska stranka"/>
+        <key name="Kacin-Konkretno" value="Kacin - Konkretno"/>
+        <key name="SD" value="Socialni demokrati"/>
+        <key name="Zares" value="Zares - socialno liberalni"/>
+        <key name="PS" value="Pozitivna Slovenija"/>
+        <key name="DeSUS" value="Demokratična stranka upokojencev Slovenije"/>
+        <key name="Coalition (NSi + SLS)" value="Coalition (Nova Slovenija + Slovenska ljudska stranka)"/>
+        <key name="DL" value="Državljanska lista"/>
+        <key name="Solidarnost" value="Solidarnost"/>
+        <key name="SNS" value="Slovenska Nacionalna Stranka"/>
+        <key name="Verjamem" value="Verjamem"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="RO">
+        <key name="PSD+PC+UNPR" value="Coalition (Partidul Social Democrat + Partidul Conservator + Uniunea Nationala pentru Progresul Romaniei)"/>
+        <key name="PNL" value="Partidul Naţional Liberal"/>
+        <key name="PDL" value="Partidul Democrat Liberal"/>
+        <key name="PPDD" value="Partidul Poporului - Dan Diaconescu (The People's Party - Dan Diaconescu)"/>
+        <key name="UDMR" value="Romániai Magyar Demokrata Szövetség"/>
+        <key name="PMP" value="Partidul Mișcarea Populară (People's Movement Party)"/>
+        <key name="PFC" value="Partidul Forța Civică"/>
+        <key name="PNTCD" value="Partidul National Taranesc Creştin Democrat"/>
+        <key name="PRM" value="Partidul România Mare"/>
+        <key name="Ind. M. Diaconu" value="Ind. Mircea Diaconu"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="PL">
+        <key name="SP" value="Solidarna Polska"/>
+        <key name="SLD" value="Sojusz Lewicy Demokratycznej"/>
+        <key name="PO" value="Platforma Obywatelska"/>
+        <key name="Europa Plus TR" value="Coalition Europa Plus Twój Ruch (Twój Ruch (TR) + Partia Demokratyczna (PD) + Stronnictwo Demokratyczne (SD))"/>
+        <key name="PSL" value="Polskie Stronnictwo Ludowe"/>
+        <key name="KNP" value="Kongres Nowej Prawicy"/>
+        <key name="PiS" value="Prawo i Sprawiedliwość"/>
+        <key name="PRJG" value="Polska Razem Jaroslawa Gowina"/>
+        <key name="RN" value="Ruch Narodowy"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="PT">
+        <key name="B.E." value="Bloco de Esquerda"/>
+        <key name="CDU (PCP + PEV)" value="Coligação Democrática Unitária (Partido Comunista Português + Partido Ecologista os Verdes)"/>
+        <key name="PS" value="Partido Socialista"/>
+        <key name="Coal. (PSD + CDS-PP)" value="Coalition (Partido Social Democrata + Centro Democrático Social/Partido Popular)"/>
+        <key name="MPT" value="Partido da Terra"/>
+        <key name="L" value="Livre"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="AT">
+        <key name="SPÖ" value="Sozialdemokratische Partei Österreich"/>
+        <key name="ÖVP" value="Österreichische Volkspartei"/>
+        <key name="FPÖ" value="Freiheitliche Partei Österreichs"/>
+        <key name="BZÖ" value="Bündnis Zukunft Österreich"/>
+        <key name="GRÜNE" value="Die Grünen - Die Grüne Alternative"/>
+        <key name="Coalition Europa Anders" value="Europa Anders (KPÖ + Piratenpartei + Der Wandel + Independent)"/>
+        <key name="NEOS" value="NEOS - Das neue Österreich"/>
+        <key name="REKOS" value="Die Reformkonservativen – REKOS"/>
+        <key name="EUStop" value="EU-Austritt, Direkte Demokratie, Neutralität (EU-Stop)"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="NL">
+        <key name="CDA" value="Christen Democratisch Appèl"/>
+        <key name="PvdA" value="Partij van de Arbeid"/>
+        <key name="SP" value="Socialistische Partij"/>
+        <key name="VVD" value="Volkspartij voor Vrijheid en Democratie"/>
+        <key name="GroenLinks" value="GroenLinks"/>
+        <key name="PVV" value="Partij voor de Vrijheid"/>
+        <key name="Coalition CU - SGP" value="ChristenUnie - Staatkundig Gereformeerde Partij"/>
+        <key name="D66" value="Democraten 66"/>
+        <key name="PvdD" value="Partij voor de Dieren"/>
+        <key name="50Plus" value="50Plus"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="MT">
+        <key name="PN/NP" value="Partit Nazzjonalista/Nationalist Party"/>
+        <key name="PL/MLP" value="Partit Laburista/Malta Labour Party"/>
+        <key name="AD/DA" value="Alternattiva Demokratika/Democratic Alternative"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="HU">
+        <key name="Együtt-PM" value="Együtt2014 (ALDE) - Párbeszéd Magyarországért (GREENS/EFA)"/>
+        <key name="MSZP" value="Magyar Szocialista Párt"/>
+        <key name="DK" value="Demokratikus Koalíció"/>
+        <key name="FIDESZ - KDNP" value="Fidesz - Magyar Polgári Szövetség - Keresztény Demokrata Néppárt"/>
+        <key name="JOBBIK" value="Jobbik Magyarországért Mozgalom"/>
+        <key name="LMP" value="Lehet Más a Politika"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="LU">
+        <key name="Déi Gréng/Les Verts" value="Déi Gréng/Les Verts"/>
+        <key name="LSAP/POSL" value="Lëtzebuerger Sozialistesch Aarbechterpartei/Parti ouvrier socialiste luxembourgeois"/>
+        <key name="DP/PD" value="Demokratesch Partei/Parti démocratique"/>
+        <key name="Déi Lénk/La gauche" value="Déi Lénk/La gauche"/>
+        <key name="CSV/PCS" value="Chrëschtlech-Sozial Volkspartei/Parti chrétien-social"/>
+        <key name="ADR/PADR" value="Alternativ Demokratesch Reformpartei/Parti alternatif et démocratique de réformes"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="LT">
+        <key name="DP" value="Darbo partija"/>
+        <key name="LZP" value="Lietuvos žaliųjų partija"/>
+        <key name="LLRA (AWPL)" value="Lietuvos lenkų rinkimų akcija"/>
+        <key name="LRLS" value="Lietuvos Respublikos liberalų sąjūdis"/>
+        <key name="LSDP" value="Lietuvos socialdemokratų partija"/>
+        <key name="LVZS" value="Lietuvos Valstiečių ir Žaliųjų Sąjunga"/>
+        <key name="TT" value="Partija Tvarka ir teisingumas"/>
+        <key name="TS-LKD" value="Tėvynės sąjunga - Lietuvos krikščionys demokratai"/>
+        <key name="LiCS -TAIP" value="Liberalų ir centro sąjunga - Politinė partija &quot;Sąjunga TAIP&quot;"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="LV">
+        <key name="LKS" value="Latvijas Krievu savienībā"/>
+        <key name="Coal. NA (TB/LNNK+VL!)" value="Coalition Nacionālā apvienība (Tēvzemei un Brīvībai/LNNK + Visu Latvijai!)"/>
+        <key name="V." value="Vienotība"/>
+        <key name="Saskaņa SDP" value="Saskaņa Sociāldemokrātiskā partija  "/>
+        <key name="LSP" value="Latvijas Sociālistiskā partija"/>
+        <key name="Coal. ZZS (LZS+LZP)" value="Coalition Zaļo un Zemnieku Savienība (Latvijas Zemnieku Savienība + Latvijas Zaļā Partija)"/>
+        <key name="Alternative" value="Alternative"/>
+        <key name="Latvijas attīstībai" value="Latvijas attīstībai"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="CY">
+        <key name="ΔΗΣΥ/DISY" value="Δημοκρατικός Συναγερμός/Democratic Rally"/>
+        <key name="ΑΚΕΛ/ΑΚΕL" value="Ανορθωτικό Κόμμα Εργαζόμενου Λαού/Progressive Party of Working People"/>
+        <key name="ΔΗΚΟ/DIKO" value="Δημοκρατικό Κόμμα/Democratic Party"/>
+        <key name="ΚΣ ΕΔΕΚ/KS EDEK" value="ΕΔΕΚ Κίνημα Σοσιαλδημοκρατών/Movement for Social Democracy EDEK"/>
+        <key name="ΕΛΑΜ/ELAM" value="Εθνικό Λαϊκό Μέτωπο/Peoples' National Front"/>
+        <key name="Συμμαχία/Symmaxia" value="Συμμαχία Πολιτών/Citizens' Alliance"/>
+        <key name="ΜΗΝΥΜΑ ΕΛΠΙΔΑΣ" value="Μήνυμα Ελπίδας/Message of Hope"/>
+        <key name="DRASI-EYLEM" value="Δρασυ-Εylem/Drasi-Eylem"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="IT">
+        <key name="IdV" value="Italia dei Valori - Di Pietro"/>
+        <key name="LN" value="Lega Nord"/>
+        <key name="PD" value="Partito Democratico"/>
+        <key name="FI" value="Forza Italia"/>
+        <key name="Coal. (NCD+UDC+PPI)" value="Coalition (Nuovo Centrodestra + Unión de Centro Democrático + Popolari per l'Italia)"/>
+        <key name="FDI-AN" value="Fratelli d'Italia - Alleanza Nazionale"/>
+        <key name="Coal. Scelta Europea" value="Coalition Scelta Europea"/>
+        <key name="M5S" value="Movimento Cinque Stelle"/>
+        <key name="SVP" value="Südtiroler Volkspartei (Partito popolare sudtirolese)"/>
+        <key name="L’Altra Europa – Con Tsipras" value="L’Altra Europa – Con Tsipras"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="FR">
+        <key name="Alternative (UDI+MoDem)" value="Coalition (Union des Démocrates et Indépendants + Mouvement Démocrate)"/>
+        <key name="NPA" value="Nouveau Parti anticapitaliste"/>
+        <key name="FG (PCF+PG+Ens.+et al.)" value="Coalition Front de gauche (Parti Communiste Français + Parti de Gauche + Ensemble + Front de gauche)"/>
+        <key name="PS - PRG" value="Parti Socialiste - Parti radical de gauche"/>
+        <key name="Europe écologie" value="Europe Ecologie"/>
+        <key name="LO" value="Liste ouvrière"/>
+        <key name="UMP" value="Union pour un Mouvement Populaire"/>
+        <key name="FN" value="Front national"/>
+        <key name="DLR" value="Debout la République"/>
+        <key name="UOM" value="Union pour les Outre-Mer"/>
+        <key name="ALE-RPS" value="Alliance des régionalistes, écologistes et progressistes des Outre-Mer régions et peuples solidaires "/>
+        <key name="Nouvelle Donne" value="Nouvelle Donne"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="ES">
+        <key name="PSOE/PSC" value="Partido Socialista Obrero Español + Partit dels Socialistes de Catalunya"/>
+        <key name="PP" value="Partido Popular"/>
+        <key name="IP (IU+ICV+Anova+et al.)" value="Coalition Izquierda Plural (Izquierda Unida (GUE/NGL) + Iniciativa per Catalunya Verds (GREENS/EFA) + Anova Nationalist Brotherhood (GUE/NGL) + et al.)"/>
+        <key name="UPyD" value="Unión Progreso y Democracia"/>
+        <key name="CEU (CDC+UDC+EAJ-PNV+ CCA-PNC+ CxG)" value="Coalición por Europa (Convergència Democràtica de Catalunya (ALDE) + Partido Nacionalista Vasco (ALDE) + Unió Democràtica de Catalunya (EPP) + Coalición Canarias + Compromiso por Galicia)"/>
+        <key name="EPDD (ERC+NECat+Ind.+et al.)" value="Coalition 'La Izquierda por el derecho a Decidir' (Esquerra Republicana de Catalunya + Nova Esquerra Catalana+ Independientes + et al.)"/>
+        <key name="LPD (BNG+EH Bildu)" value="Coalition Los Pueblos Deciden (El Bloque Nacionalista Galego + Euskal Herria Bildu + et al.)"/>
+        <key name="Primavera Europea" value="Coalition Primavera Europea (Compromís (OTHERS) + Equo (GREENS/EFA) + Cha (GREENS/EFA) + et al.)"/>
+        <key name="C'S" value="Ciudadanos - Partido de la Ciudadanía"/>
+        <key name="VOX" value="VOX"/>
+        <key name="Podemos" value="Por la Democracia Social"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="EL">
+        <key name="Ν.Δ/N.D." value="Νέα Δημοκρατία/New Democracy"/>
+        <key name="Ελιά ΔΠ / ELIA DA" value="Ελιά-Δημοκρατική Παράταξη/Olive Tree-Democratic Allignement"/>
+        <key name="KKE" value="Κομμουνιστικό Κόμμα Ελλάδας/Communist Party of Greece"/>
+        <key name="ΣΥ.ΡΙ.ΖΑ." value="Συνασπισμός Ριζοσπαστικής Αριστεράς/Coalition of the Radical Left"/>
+        <key name="ΛΑ.Ο.Σ/LA.O.S." value="Λαϊκός Ορθόδοξος Συναγερμός - Γ. Καρατζαφέρης/Popular Orthodox Rally - G. Karatzaferis"/>
+        <key name="Ο.Π./O.P." value="Οικολόγοι Πράσινοι/Ecologist Greens"/>
+        <key name="X.A." value="Χρυσή Αυγή/Golden Dawn"/>
+        <key name="ΑΝ.ΕΛ/ANEL" value="Ανεξάρτητοι Έλληνες/Independent Greeks"/>
+        <key name="ΔΗΜ.ΑΡ/DI.M.AR" value="Δημοκρατική Αριστερά/Democratic Left"/>
+        <key name="To Potami" value="Το ποτάμι/The River"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="IE">
+        <key name="FF" value="Fianna Fáil Party"/>
+        <key name="FG" value="Fine Gael Party"/>
+        <key name="Lab." value="Labour Party"/>
+        <key name="GP" value="Green Party"/>
+        <key name="SF" value="Sinn Féin"/>
+        <key name="Ind." value="Independents"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="EE">
+        <key name="ER" value="Eesti Reformierakond"/>
+        <key name="KE" value="Eesti Keskerakond"/>
+        <key name="IRL" value="Erakond Isamaa ja Res Publica Liit"/>
+        <key name="SDE" value="Sotsiaaldemokraatlik Erakond"/>
+        <key name="EER" value="Erakond Eestimaa Rohelised"/>
+        <key name="EKRE" value="Eesti Konservatiivne Rahvaerakond"/>
+        <key name="EIP" value="Eesti Iseseisvuspartei"/>
+        <key name="I. Tarand (Ind.)" value="Indrek Tarand (Independent)"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="DE">
+        <key name="CDU / CSU" value="Christlich Demokratische Union Deutschlands / Christlich-Soziale Union in Bayern e.V."/>
+        <key name="SPD" value="Sozialdemokratische Partei Deutschlands"/>
+        <key name="GRÜNE" value="Bündnis 90/Die Grünen"/>
+        <key name="DIE LINKE" value="DIE LINKE"/>
+        <key name="FDP" value="Freie Demokratische Partei"/>
+        <key name="PIRATEN" value="Piratenpartei Deutschland"/>
+        <key name="AfD" value="Alternative für Deutschland"/>
+        <key name="FAMILIE" value="Familien-Partei Deutschlands"/>
+        <key name="FREIE WÄHLER" value="FREIE WÄHLER "/>
+        <key name="NPD" value="Nationaldemokratische Partei Deutschlands"/>
+        <key name="ÖDP" value="Ökologisch-Demokratische Partei"/>
+        <key name="PBC" value="Partei Bibeltreuer Christen"/>
+        <key name="REP" value="DIE REPUBLIKANER"/>
+        <key name="Tierschutzpartei" value="PARTEI MENSCH UMWELT TIERSCHUTZ"/>
+        <key name="Die Partei" value="Die Partei"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="DK">
+        <key name="A. (S)" value="Socialdemokratiet"/>
+        <key name="B. (RV)" value="Det Radikale Venstre"/>
+        <key name="C. (KF)" value="Det Konservative Folkeparti"/>
+        <key name="F. (SF)" value="Socialistisk Folkeparti"/>
+        <key name="O. (DF)" value="Dansk Folkeparti"/>
+        <key name="I. (LA)" value="Ny Alliance"/>
+        <key name="N." value="Folkebevægelsen mod EU"/>
+        <key name="V. (V)" value="Venstre, Danmarks Liberale Parti"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="CZ">
+        <key name="ODS" value="Občanská demokratická strana"/>
+        <key name="ČSSD" value="Česká strana sociálně demokratická "/>
+        <key name="KSČM" value="Komunistická strana Čech a Moravy"/>
+        <key name="KDU-ČSL" value="Křesťanská a demokratická unie – Československá strana lidová"/>
+        <key name="VV" value="Věci veřejné"/>
+        <key name="Coal. (TOP 09 + STAN)" value="Coalition TOP 09 + Starostové a nezávislí"/>
+        <key name="ANO 2011" value="ANO 2011"/>
+        <key name="SZ" value="Strana zelených"/>
+        <key name="Usvit" value="Úsvit přímé demokracie"/>
+        <key name="Česká pirátská strana" value="Česká pirátská strana"/>
+        <key name="Svobodní" value="Strana svobodných občanů"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="BG">
+        <key name="BSP/БСП" value="Bulgarian Socialist Party/Българска социалистическа партия"/>
+        <key name="DPS/ДПС" value="Movement for Rights and Freedoms/Движение за права и свободи"/>
+        <key name="ATAKA/АТАКА" value="ATAKA/Партия Атака"/>
+        <key name="GERB/ГЕРБ" value="Citizens for European Development of Bulgaria/Граждани за европейско развитие на България"/>
+        <key name="NFSB/НФСБ" value="The National Front for Salvation of Bulgaria/Национален фронт за спасение на България"/>
+        <key name="RB/Реформаторски блок" value="Coaliton Reformist Block: Movement Bulgaria of the Citizens (DBG)/Democrats for Strong Bulgaria (DSB)/Union of democratic forces (SDS)/People's Party Freedom and dignity (NPSD)/Bulgarian Agrarian People's Union (BZNS)/Реформаторски блок: Движение &quot;България на гражданите&quot; (ДБГ) + Демократи за силна България (ДСБ) + Съюз на демократичните сили (СДС) + Народна партия свобода и достойнство (НПСД) + Български земеделски народен съюз (БЗНС) "/>
+        <key name="ББЦ+ВМРО-БНД et al." value="Coalition: BWC Bulgaria Without Censorship +VMRO-BND Internal Macedonian Revolutionary Organisation-Bulgarian National Movement + Agrarian People's Union ZNC +  St George's Day movement/ България без цензура (ББЦ) + Вътрешна македонска революционна организация-Българско национално движение + Гергьовден (ВМРО-БНД) +Земеделски народен съюз (ЗНС) "/>
+        <key name="ABV/АБВ" value="Alternative for Bulgaria Renaissance Movement/Алтернатива за българско възраждане"/>
+        <key name="[Others]" value="Others"/>
+    </country>
+    <country code="BE">
+        <key name="PS" value="Parti Socialiste"/>
+        <key name="MR" value="Mouvement Réformateur"/>
+        <key name="cdH" value="Centre Démocrate Humaniste"/>
+        <key name="ECOLO" value="Ecologistes Confédérés pour l'Organisation de Luttes Originales"/>
+        <key name="FN" value="Front National"/>
+        <key name="PTB-GO!" value="Parti du Travail de Belgique"/>
+        <key name="FDF" value="Fédéralistes démocrates francophones"/>
+        <key name="La droite" value="La droite"/>
+        <key name="PP" value="Parti populaire"/>
+        <key name="[Others] W." value="[Other parties French-speaking electoral college]"/>
+        <key name="CSP" value="Christlich Soziale Partei"/>
+        <key name="SP" value="Sozialistische Partei"/>
+        <key name="PFF" value="Partei für Freiheit und Fortschritt"/>
+        <key name="ProDG" value="Pro deutschsprachige Gemeinschaft "/>
+        <key name="[Others] G." value="[Other parties German-speaking electoral college]"/>
+        <key name="CD&amp;V" value="Christen-Democratisch &amp; Vlaams"/>
+        <key name="GROEN" value="Groen"/>
+        <key name="N-VA" value="Nieuw-Vlaamse Alliantie"/>
+        <key name="SP.A" value="Socialistische Partij.Anders"/>
+        <key name="Vlaams Belang" value="Vlaams Belang"/>
+        <key name="Open VLD" value="Open Vlaamse Liberalen en Democraten"/>
+        <key name="PVDA+" value="Partij van de Arbeid van België"/>
+        <key name="[Others] F." value="[Other parties Dutch-speaking electoral college]"/>
+    </country>
+    <country code="WBE">
+        <key name="PS" value="Parti Socialiste"/>
+        <key name="MR" value="Mouvement Réformateur"/>
+        <key name="cdH" value="Centre Démocrate Humaniste"/>
+        <key name="ECOLO" value="Ecologistes Confédérés pour l'Organisation de Luttes Originales"/>
+        <key name="FN" value="Front National"/>
+        <key name="PTB-GO!" value="Parti du Travail de Belgique"/>
+        <key name="FDF" value="Fédéralistes démocrates francophones"/>
+        <key name="La droite" value="La droite"/>
+        <key name="PP" value="Parti populaire"/>
+        <key name="[Others] W." value="[Other parties French-speaking electoral college]"/>
+    </country>
+    <country code="GBE">
+        <key name="CSP" value="Christlich Soziale Partei"/>
+        <key name="SP" value="Sozialistische Partei"/>
+        <key name="PFF" value="Partei für Freiheit und Fortschritt"/>
+        <key name="ProDG" value="Pro deutschsprachige Gemeinschaft "/>
+        <key name="[Others] G." value="[Other parties German-speaking electoral college]"/>
+    </country>
+    <country code="FBE">
+        <key name="CD&amp;V" value="Christen-Democratisch &amp; Vlaams"/>
+        <key name="GROEN" value="Groen"/>
+        <key name="N-VA" value="Nieuw-Vlaamse Alliantie"/>
+        <key name="SP.A" value="Socialistische Partij.Anders"/>
+        <key name="Vlaams Belang" value="Vlaams Belang"/>
+        <key name="Open VLD" value="Open Vlaamse Liberalen en Democraten"/>
+        <key name="PVDA+" value="Partij van de Arbeid van België"/>
+        <key name="[Others] F." value="[Other parties Dutch-speaking electoral college]"/>
+    </country>
+    <country code="EU"/>
+</parties>

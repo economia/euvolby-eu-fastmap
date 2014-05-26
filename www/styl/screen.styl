@@ -30,6 +30,8 @@
         border-left 1px solid #ddd
         border-bottom 1px solid #ddd
         width 300px
+        max-height 100%
+        overflow auto 
         padding-left 20px
         padding-right 20px
         padding-bottom 10px
@@ -51,7 +53,19 @@
             clear left
             padding-left 0px
             list-style-type none
-            line-height 1.4em
+            line-height 1.1em
+            li
+                margin-bottom 10px 
+                float left
+                clear left
+            span
+                display block
+                float left
+                clear left
+                &.groups
+                &.fullname
+                    color #aaa
+                    font-size 0.8em 
     .legend
         z-index 10
         position absolute
